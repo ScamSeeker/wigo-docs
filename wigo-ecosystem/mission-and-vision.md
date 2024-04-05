@@ -1,6 +1,8 @@
-# 🌪️ Mission & Vision
+---
+description: 'A Bright Horizon: Wigo''s Vision'
+---
 
-**A Bright Horizon: Wigo's Vision**
+# 🌪️ Mission & Vision
 
 <figure><img src="../.gitbook/assets/Mission &#x26; Vision.png" alt=""><figcaption></figcaption></figure>
 
