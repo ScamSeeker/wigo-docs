@@ -24,6 +24,7 @@
   * [🔐 Secure & Sustainable](wigoswap-the-defi/overview/secure-and-sustainable.md)
 * [🔥 Galaxy Burn Module (GBM)](wigoswap-the-defi/galaxy-burn-module-gbm.md)
 * [🌉 WigoBridge: Go Beyond](wigoswap-the-defi/wigobridge-go-beyond.md)
+* [🎲 WigoQuest: Play and Earn](wigoswap-the-defi/wigoquest-play-and-earn.md)
 * [⚡ DeFi Products](wigoswap-the-defi/defi-products/README.md)
   * [↔️ Swap](wigoswap-the-defi/defi-products/swap/README.md)
     * [How to Swap Fantom Tokens](wigoswap-the-defi/defi-products/swap/how-to-swap-fantom-tokens.md)
@@ -36,7 +37,6 @@
     * [How to Stake in WigoBank](wigoswap-the-defi/defi-products/staking-wigo/how-to-stake-in-wigobank.md)
     * [Automatic vs. Standard](wigoswap-the-defi/defi-products/staking-wigo/automatic-vs.-standard.md)
     * [WigoBank FAQ & Troubleshooting](wigoswap-the-defi/defi-products/staking-wigo/wigobank-faq-and-troubleshooting.md)
-* [🎲 WigoQuest: Play and Earn](wigoswap-the-defi/wigoquest-play-and-earn.md)
 
 ## WIGOPLAY
 
