@@ -1,6 +1,8 @@
-# 🌪 Our Mission & Vision
+# 🌪️ Mission & Vision
 
 **A Bright Horizon: Wigo's Vision**
+
+<figure><img src="../.gitbook/assets/Mission &#x26; Vision.png" alt=""><figcaption></figcaption></figure>
 
 At Wigo, our vision is to build a future where blockchain technology seamlessly intertwines with daily life, creating an empowering and inclusive digital universe. We imagine a world where DeFi, NFTs, gaming, and work coexist in a dynamic ecosystem, offering limitless possibilities for growth, exploration, and innovation. Our vision is to facilitate the evolution of the internet economy, breaking down traditional barriers and democratizing access to digital opportunities.
 

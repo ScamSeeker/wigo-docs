@@ -1,6 +1,6 @@
 # 🎁 Rewards Distribution
 
-![](../../.gitbook/assets/Distribution.png)
+<figure><img src="../../.gitbook/assets/Reward Distribution.png" alt=""><figcaption></figcaption></figure>
 
 The base emissions rate is 9 WIGO per second divided across WIGO staking and farming pools. WIGO minting features a mid-term hyperinflationary period of 8 months in which rewards have a 9 times multiplier in the first month and are reduced automatically every month afterward. All tokens minted in this period will be released immediately.
 

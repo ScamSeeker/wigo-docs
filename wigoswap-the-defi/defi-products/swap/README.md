@@ -1,4 +1,6 @@
-# ↔ Swap
+# ↔️ Swap
+
+<figure><img src="../../../.gitbook/assets/Swap.png" alt=""><figcaption></figcaption></figure>
 
 WigoSwap is an Automated Market Maker (AMM) with the Decentralized Exchange playing a pivotal role in its ecosystem. Operating as a comprehensive AMM on the Fantom Blockchain, WigoSwap’s goal is to lead users on their way to decentralization.
 

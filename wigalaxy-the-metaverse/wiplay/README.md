@@ -4,6 +4,8 @@ description: Blockchain Gaming - Spark Fun, Earn Rewards
 
 # 🎮 Overview
 
+<figure><img src="../../.gitbook/assets/Overview.png" alt=""><figcaption></figcaption></figure>
+
 WigoPlay, under the umbrella of Wigo, stands as a dynamic dimension within the Wigo Ecosystem. It’s a unique platform where blockchain users can unleash their fun side and earn rewards by engaging in simple, yet thrilling, blockchain games. WigoPlay pushes the boundary of what's possible within the world of play-to-earn, offering a gamified blend of entertainment and potential profitability.
 
 > The pioneering game on WigoPlay is [Predict](https://docs.wigoswap.io/wigalaxy-the-metaverse/wiplay/predict-game), a price prediction game that runs on the Fantom blockchain. Powered by Chainlink, Predict provides an exciting environment where players predict FTM prices to win rewards. The beta period of Predict saw enthusiastic participation from hundreds of players, with the [top 3 players](https://wigoswap.io/predict/leaderboard) alone participating in more than 10,000 rounds and winning over 4,000 $FTM.

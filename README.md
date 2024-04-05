@@ -4,7 +4,7 @@ description: Blockchain, Beyond Boundaries
 
 # 🌐 Overview
 
-<figure><img src=".gitbook/assets/Wigo Banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Overview (3).png" alt=""><figcaption></figcaption></figure>
 
 Wigo is a comprehensive, interconnected blockchain ecosystem to pioneer the decentralized future. It harmoniously blends DeFi, NFTs, and gaming in an immersive metaverse, fostering an inclusive, dynamic, and rewarding digital economy. Encompassing robust platforms such as WigoSwap, WigoGalaxy, Bazaar, and WigoPlay, Wigo offers a range of diverse and rewarding experiences. From trading tokens in DeFi, and embarking on game quests, to engaging in community-led fundraising and establishing personal blockchain domains, Wigo ushers in a new era of blockchain exploration and interaction.
 

@@ -20,7 +20,7 @@ WigoRun serves as a nexus between business professionals, blockchain experts, an
 
 In addition to serving as a hub for professional connections and startup funding, WigoRun also supports charitable causes. By leveraging blockchain technology's transparency and the global reach of the Wigo Ecosystem, WigoRun provides a platform where anyone, anywhere, can support causes they care about. This model democratizes charitable giving, ensuring anyone can make a tangible difference, regardless of their geographical location.
 
-WigoRun **and the Wigo Ecosystem**
+**WigoRun and the Wigo Ecosystem**
 
 As part of the Wigo Ecosystem, WigoRun benefits from the rich network of users, professionals, and platforms. It leverages the strength of the Wigo community and its various tools to bring its vision to life. Furthermore, WigoRun supports WiSwap campaigns, contributes to the WigoGalaxy and Bazaar, and promotes the economic freedom philosophy of DeTasker. In essence, WigoRun represents the social and philanthropic aspects of the Wigo vision, cementing its place as a cornerstone of the Wigo Ecosystem.
 

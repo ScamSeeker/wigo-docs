@@ -4,6 +4,8 @@ description: 'Fueling the Ecosystem: The $WIGO Token'
 
 # 🪙 WIGO Token
 
+<figure><img src="../../.gitbook/assets/Wigo Token.png" alt=""><figcaption></figcaption></figure>
+
 The $WIGO token is the foundational asset of the Wigo Ecosystem. As the primary utility and governance token, it not only fuels the various platforms within the Wigo Ecosystem but also empowers its holders with a voice in the future development of Wigo. The $WIGO token is key to creating a self-sustaining, decentralized economy, opening doors for users to participate in a fair, equitable, and sustainable yield farming ecosystem.
 
 

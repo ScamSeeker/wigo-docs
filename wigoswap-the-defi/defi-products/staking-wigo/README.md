@@ -1,4 +1,6 @@
-# 🏦 Staking WIGO (WigoBank)
+# 🏦 Staking WIGO
+
+<figure><img src="../../../.gitbook/assets/Staking.png" alt=""><figcaption></figcaption></figure>
 
 ### **What is WigoBank?**&#x20;
 

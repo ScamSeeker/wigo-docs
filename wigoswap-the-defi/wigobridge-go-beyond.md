@@ -4,6 +4,8 @@ description: Unifying the Blockchain Universe
 
 # 🌉 WigoBridge: Go Beyond
 
+<figure><img src="../.gitbook/assets/WigoBridge 1.png" alt=""><figcaption></figcaption></figure>
+
 In the rapidly evolving blockchain landscape, Wigo recognizes the necessity for interoperability. With cross-chain capabilities, WigoSwap opens the door to a new era of decentralized finance, one where borders between different blockchain networks are virtually non-existent. This crucial feature facilitates seamless transactions between different chains, bringing a level of inclusivity and universality to the Wigo Ecosystem.
 
 

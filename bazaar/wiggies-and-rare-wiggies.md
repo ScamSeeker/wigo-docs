@@ -2,9 +2,9 @@
 description: Lively Companionship in the Metaverse
 ---
 
-# 🧙♂ Wiggies and Rare Wiggies
+# 🧙‍♂️ Wiggies and Rare Wiggies
 
-<figure><img src="../.gitbook/assets/Wiggies.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Wiggies and Rare Wiggies.png" alt=""><figcaption></figcaption></figure>
 
 Wiggies act as essential NFT companions and avatars within the WigoGalaxy. They play a pivotal role in assisting users as they navigate through Nebulas, confront Monsters, and uncover Treasures.
 
@@ -16,6 +16,8 @@ Wiggies act as essential NFT companions and avatars within the WigoGalaxy. They 
 * **Interactivity:** Beyond their utility, Wiggies also bring a layer of fun and personalization, allowing users to engage deeper with the WigoGalaxy world.
 
 ***
+
+<figure><img src="../.gitbook/assets/Wiggies.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Rare Wiggies:**
 

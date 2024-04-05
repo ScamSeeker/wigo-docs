@@ -1,4 +1,6 @@
-# 👨🌾 Yield Farming (WigoFarm)
+# 👨‍🌾 Yield Farming
+
+<figure><img src="../../../.gitbook/assets/Yield Farming.png" alt=""><figcaption></figcaption></figure>
 
 As users add liquidity to the platform, they earn LP Tokens. Staking the LP Tokens will lead to harvesting WIGO as the reward.
 

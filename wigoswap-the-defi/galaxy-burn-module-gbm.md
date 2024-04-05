@@ -4,7 +4,7 @@ description: Inflating Opportunities, Deflating Risks
 
 # 🔥 Galaxy Burn Module (GBM)
 
-![](../.gitbook/assets/GBM.png)
+<figure><img src="../.gitbook/assets/GBM Chart.png" alt=""><figcaption></figcaption></figure>
 
 The Galaxy Burning Module (GBM), initially known as the Gamified Burning Mechanism, is a standout feature of WigoSwap. Introduced as an innovative tool to ensure the longevity and sustainability of the $WIGO token, GBM has successfully proven itself as a key measure for controlling token inflation. By gamifying the burning process, GBM incentivizes user engagement and fosters economic stability across the Wigo Ecosystem.
 

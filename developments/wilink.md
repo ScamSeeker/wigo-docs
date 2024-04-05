@@ -8,7 +8,7 @@ description: Monetizing Your Galaxy Presence
 
 WiLink is an innovative blockchain domain naming product, exclusive to the Wigo Ecosystem. It integrates personalized URLs and social features, aiming to provide every WigoGalaxy user with an exclusive domain name. WiLink is not merely a naming system; it's a platform to boost personal branding and facilitate a seamless referral system. It is currently under development and represents the future of referral programs in the DeFi world.
 
-###
+
 
 ### The Concept
 

@@ -1,13 +1,13 @@
 # Table of contents
 
-## ♾ Wigo Ecosystem
+## ♾️ Wigo Ecosystem
 
 * [🌐 Overview](README.md)
 * [📄 Whitepaper V2](wigo-ecosystem/whitepaper-v2.md)
-* [🌪 Mission & Vision](wigo-ecosystem/mission-and-vision.md)
+* [🌪️ Mission & Vision](wigo-ecosystem/mission-and-vision.md)
 * [🧩 The Ecosystem](wigo-ecosystem/the-ecosystem.md)
 * [🪙 WIGO Token](wigo-ecosystem/wigo-token/README.md)
-  * [⛏ Tokenomics](wigo-ecosystem/wigo-token/tokenomics.md)
+  * [⛏️ Tokenomics](wigo-ecosystem/wigo-token/tokenomics.md)
   * [🎁 Rewards Distribution](wigo-ecosystem/wigo-token/rewards-distribution.md)
 
 ## 🪐 WigoGalaxy
@@ -15,7 +15,7 @@
 * [🌌 Overview](wigalaxy-the-metaverse/overview/README.md)
   * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
 * [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics.md)
-* [🧙♂ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
+* [🧙‍♂️ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
 * [🚩 Galaxy ID](wigalaxy-the-metaverse/join-wigalaxy.md)
 
 ## WigoSwap - The DeFi
@@ -25,11 +25,11 @@
 * [🔥 Galaxy Burn Module (GBM)](wigoswap-the-defi/galaxy-burn-module-gbm.md)
 * [🌉 WigoBridge: Go Beyond](wigoswap-the-defi/wigobridge-go-beyond.md)
 * [⚡ DeFi Products](wigoswap-the-defi/defi-products/README.md)
-  * [↔ Swap](wigoswap-the-defi/defi-products/swap/README.md)
+  * [↔️ Swap](wigoswap-the-defi/defi-products/swap/README.md)
     * [How to Swap Fantom Tokens](wigoswap-the-defi/defi-products/swap/how-to-swap-fantom-tokens.md)
   * [💰 Liquidity Pools](wigoswap-the-defi/defi-products/liquidity-pools/README.md)
     * [How to Add/Remove Liquidity](wigoswap-the-defi/defi-products/liquidity-pools/how-to-add-remove-liquidity.md)
-  * [👨🌾 Yield Farming](wigoswap-the-defi/defi-products/yield-farming/README.md)
+  * [👨‍🌾 Yield Farming](wigoswap-the-defi/defi-products/yield-farming/README.md)
     * [How to Use WigoFarm](wigoswap-the-defi/defi-products/yield-farming/how-to-use-wigofarm.md)
     * [How to Use WigoFarm with FTMScan](wigoswap-the-defi/defi-products/yield-farming/how-to-use-wigofarm-with-ftmscan.md)
   * [🏦 Staking WIGO](wigoswap-the-defi/defi-products/staking-wigo/README.md)
@@ -47,8 +47,8 @@
 
 ## Bazaar
 
-* [🖼 Overview](wimart-bazaar/overview.md)
-* [🧙♂ Wiggies and Rare Wiggies](bazaar/wiggies-and-rare-wiggies.md)
+* [🖼️ Overview](wimart-bazaar/overview.md)
+* [🧙‍♂️ Wiggies and Rare Wiggies](bazaar/wiggies-and-rare-wiggies.md)
 
 ## Developments
 

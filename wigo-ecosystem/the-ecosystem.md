@@ -4,9 +4,7 @@ description: Blockchain, Beyond Boundaries
 
 # 🧩 The Ecosystem
 
-![](<../.gitbook/assets/1500x500 (2).jpeg>)
-
-
+<figure><img src="../.gitbook/assets/The Ecosystem.png" alt=""><figcaption></figcaption></figure>
 
 ## **Navigating the Future of Decentralization**
 

@@ -1,5 +1,7 @@
 # ⏬ Brand & Logos
 
+<figure><img src="../.gitbook/assets/Brand &#x26; Logos.png" alt=""><figcaption></figcaption></figure>
+
 You may use WigoSwap's Brand Assets when you are:
 
 * Referring to our products and services
@@ -12,7 +14,7 @@ You may use WigoSwap's Brand Assets when you are:
 
 > Logo - Horizontal PNG | SVG
 
-![](../.gitbook/assets/Horizontal.png)          ![](../.gitbook/assets/Horizontal.svg)
+![](<../.gitbook/assets/Logo - Horizontal PNG  SVG 1.png>)          ![](<../.gitbook/assets/Logo - Horizontal PNG  SVG 2 (1).svg>)         &#x20;
 
 
 
@@ -22,7 +24,7 @@ You may use WigoSwap's Brand Assets when you are:
 
 > Logo - Vertical PNG | SVG
 
-![](../.gitbook/assets/Vertical.png)          ![](../.gitbook/assets/Vertical.svg)
+![](<../.gitbook/assets/Logo - Vertical PNG  SVG 1.png>)          ![](<../.gitbook/assets/Logo - Vertical PNG  SVG 2.svg>)
 
 
 
@@ -32,7 +34,7 @@ You may use WigoSwap's Brand Assets when you are:
 
 > Logo - Coin Mode PNG | SVG
 
-![](../.gitbook/assets/Coin-Mode.png)          ![](<../.gitbook/assets/Coin Mode.svg>)
+![](<../.gitbook/assets/Logo - Coin Mode PNG  SVG 1 (1).png>)          ![](<../.gitbook/assets/Logo - Coin Mode PNG  SVG 2.svg>)
 
 
 
@@ -40,14 +42,12 @@ You may use WigoSwap's Brand Assets when you are:
 
 > WIGO Coin PNG | SVG
 
-&#x20;  <img src="../.gitbook/assets/Coin.png" alt="" data-size="line">  <img src="../.gitbook/assets/Coin.svg" alt="" data-size="line">
+&#x20;  <img src="../.gitbook/assets/WIGO Coin PNG  SVG 1.png" alt="" data-size="line">  <img src="../.gitbook/assets/WIGO Coin PNG  SVG 2.svg" alt="" data-size="line">
 
 > WIGO Icon PNG | SVG
 
-&#x20;  <img src="../.gitbook/assets/Icon.png" alt="" data-size="line">  <img src="../.gitbook/assets/Icon.svg" alt="" data-size="line">
+&#x20;  <img src="../.gitbook/assets/WIGO Icon PNG  SVG 1.png" alt="" data-size="line">  <img src="../.gitbook/assets/WIGO Icon PNG  SVG 2.svg" alt="" data-size="line">
 
 
 
-
-
-![   WigoSwap Color Palette](../.gitbook/assets/Colors.png)
+<figure><img src="../.gitbook/assets/Pallete (1).png" alt=""><figcaption><p>   WigoSwap Color Palette</p></figcaption></figure>

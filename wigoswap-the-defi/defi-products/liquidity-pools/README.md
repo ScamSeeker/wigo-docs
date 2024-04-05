@@ -1,5 +1,7 @@
 # 💰 Liquidity Pools
 
+<figure><img src="../../../.gitbook/assets/Liquidity Pools.png" alt=""><figcaption></figcaption></figure>
+
 Providing the liquidity pools with specific liquidity results in users receiving Wigo-LP tokens and a share of the fees generated.&#x20;
 
 ### **Wigo-LP Tokens:**&#x20;
