@@ -36,6 +36,7 @@
     * [How to Stake in WigoBank](wigoswap-the-defi/defi-products/staking-wigo/how-to-stake-in-wigobank.md)
     * [Automatic vs. Standard](wigoswap-the-defi/defi-products/staking-wigo/automatic-vs.-standard.md)
     * [WigoBank FAQ & Troubleshooting](wigoswap-the-defi/defi-products/staking-wigo/wigobank-faq-and-troubleshooting.md)
+* [🎲 WigoQuest: Play and Earn](wigoswap-the-defi/wigoquest-play-and-earn.md)
 
 ## WIGOPLAY
 
