@@ -4,7 +4,7 @@ description: The Integrated NFT Marketplace of WigoGalaxy
 
 # 🖼️ Overview
 
-<figure><img src="../.gitbook/assets/Overview (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Overview (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bazaar is the pulsating economic heart of the WigoGalaxy. As an integrated NFT marketplace, Bazaar provides users a vibrant platform where they can freely trade, exchange, and leverage their digital assets. From Wiggies to Candies, Cards, Keys, and soon, XPs, Bazaar serves as the centralized hub where all valuable in-game items and assets find their value in the open market.
 

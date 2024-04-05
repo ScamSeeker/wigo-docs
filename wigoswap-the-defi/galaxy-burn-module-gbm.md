@@ -33,7 +33,7 @@ Below are the sources for Gamified Burning Mechanism:
 * **1%** of every harvest in the [Staking pool](defi-products/staking-wigo/automatic-vs.-standard.md) (Auto Compound Performance Fee) in the WigoBank.
 * **1%** of every unstake within three days in the [Staking pool](defi-products/staking-wigo/automatic-vs.-standard.md) (Auto Compound) in the WigoBank.
 * **0.01%** of every swap made on [WigoSwap](defi-products/swap/). Buy back WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
-* **100%** of registeration fee in [WigoGalaxy](../wigalaxy-the-metaverse/overview/)
+* **100%** of registeration fee in [WigoGalaxy](../galaxy/overview.md)
 * **100%** of [Wiggy NFT](broken-reference) minting fee
 * **4%** of prize pool in [Predict](../wigalaxy-the-metaverse/wiplay/predict-game/)
 * **100%** trading fee in [WigoMarket](../wimart-bazaar/overview.md)

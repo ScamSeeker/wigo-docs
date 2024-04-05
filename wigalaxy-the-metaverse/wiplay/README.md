@@ -4,7 +4,7 @@ description: Blockchain Gaming - Spark Fun, Earn Rewards
 
 # 🎮 Overview
 
-<figure><img src="../../.gitbook/assets/Overview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Overview (2).png" alt=""><figcaption></figcaption></figure>
 
 WigoPlay, under the umbrella of Wigo, stands as a dynamic dimension within the Wigo Ecosystem. It’s a unique platform where blockchain users can unleash their fun side and earn rewards by engaging in simple, yet thrilling, blockchain games. WigoPlay pushes the boundary of what's possible within the world of play-to-earn, offering a gamified blend of entertainment and potential profitability.
 

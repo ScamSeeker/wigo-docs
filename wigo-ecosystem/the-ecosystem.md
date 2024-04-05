@@ -18,7 +18,7 @@ The Wigo Ecosystem is a cutting-edge, comprehensive suite of blockchain-based pl
 Shaping the sustainable future of decentralized finance, WigoSwap stands as the backbone of the Wigo Ecosystem. A CertiK-audited DeFi protocol, WigoSwap introduces fair yield farming via the native $WIGO token and integrates a unique Galaxy Burning Module (GBM) for token sustainability and inflation control. The protocol's cross-chain capabilities bridge blockchain islands, paving the way for an inclusive decentralized economy.
 
 \
-[**WigoGalaxy**](../wigalaxy-the-metaverse/overview/)&#x20;
+[**WigoGalaxy**](../galaxy/overview.md)&#x20;
 
 A blend of virtual reality and blockchain, WiGalaxy is the metaverse where users live, learn, play, and earn. It's a universe where the boundaries of imagination are endless. Users embark on quests, missions, and interactions, earning Galactic Credits (cWIGO) and leveling up their characters. It redefines the concept of user engagement through a combination of play-to-earn and learn-to-earn models.
 

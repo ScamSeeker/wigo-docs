@@ -15,7 +15,7 @@ We believe in a future where the marvels of blockchain technology aren’t just 
 Dreaming is but the first step. Our mission at Wigo is to sculpt our dreams into tangible realities. We have charted a course to this digital horizon, building tools and platforms that intertwine with the very fabric of this envisioned future:
 
 * **Elevating DeFi:** [WigoSwap](../wigoswap-the-defi/overview/) isn't just a DeFi protocol; it's our answer to an inclusive and fair decentralized economy that stands the test of time.
-* **Merging Dimensions with** [**WigoGalaxy**](../wigalaxy-the-metaverse/overview/)**:** In this expansive universe, gaming isn't just for leisure; it's an odyssey of learning and earning.
+* **Merging Dimensions with** [**WigoGalaxy**](../galaxy/overview.md)**:** In this expansive universe, gaming isn't just for leisure; it's an odyssey of learning and earning.
 * **Art Meets Blockchain in** [**Wiggies**](broken-reference)**:** By bringing art and investments under a singular, interactive umbrella, we are redefining how art is created, perceived, and valued.
 * **The Digital Marketplace -** [**Bazaar**](../wimart-bazaar/overview.md)**:** A realm where NFTs aren’t just collectibles but are emblematic of a vibrant, decentralized economy.
 * **Reimagining Work with** [**DeTasker**](../developments/wiwork.md)**:** Beyond the confines of cubicles and offices, we see a future where work and economic freedom coalesce on the blockchain.

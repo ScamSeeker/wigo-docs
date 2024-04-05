@@ -10,13 +10,14 @@
   * [⛏️ Tokenomics](wigo-ecosystem/wigo-token/tokenomics.md)
   * [🎁 Rewards Distribution](wigo-ecosystem/wigo-token/rewards-distribution.md)
 
-## 🪐 WigoGalaxy
+## 🪐 GALAXY
 
-* [🌌 Overview](wigalaxy-the-metaverse/overview/README.md)
-  * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
-* [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics.md)
-* [🧙‍♂️ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
-* [🚩 Galaxy ID](wigalaxy-the-metaverse/join-wigalaxy.md)
+* [🌌 Overview](galaxy/overview.md)
+* [🎮 Galaxy Mechanics](galaxy/galaxy-mechanics.md)
+* [🕹️ Quest Types and Structures](galaxy/quest-types-and-structures.md)
+* [🏆 Rewards and Incentives](galaxy/rewards-and-incentives.md)
+* [🚩 Galaxy ID](galaxy/galaxy-id.md)
+* [🎨 User Experience and Interface](galaxy/user-experience-and-interface.md)
 
 ## WigoSwap - The DeFi
 
