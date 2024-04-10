@@ -1,6 +1,6 @@
-# ⛏ Tokenomics
+# ⛏️ Tokenomics
 
-![](<../../.gitbook/assets/tokenomics (1).png>)
+<figure><img src="../../.gitbook/assets/Tokenomics Chart.png" alt=""><figcaption></figcaption></figure>
 
 WIGO is the native governance token of WigoSwap’s ecosystem. The maximum supply (hard-cap) determined for the WIGO token is 2,000,000,000.&#x20;
 
