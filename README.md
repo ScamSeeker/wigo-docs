@@ -15,7 +15,7 @@ Wigo is a comprehensive, interconnected blockchain ecosystem to pioneer the dece
 At its core, Wigo is a mosaic of platforms, each tailored for specific experiences:
 
 * **WigoSwap:** Our initial offering, a DeFi platform on the Fantom blockchain, forms the bedrock of our ecosystem. Tailored for enthusiasts seeking a seamless trading experience, WigoSwap offers unparalleled liquidity and unmatched speed.
-* **WigoGalaxy:** A manifestation of our evolved vision, WigoGalaxy is where finance meets narrative. Users embark on tailored quests, unlock achievements, and traverse a universe with opportunities and rewards.
+* **WigoGalaxy:** A nexus where DeFi meets gamification, WigoGalaxy offers a rich narrative experience through diverse quests and rewards. This platform not only educates but actively engages users, empowering them to explore and grow within the Wigo ecosystem.
 * **Bazaar:** A vibrant marketplace for trading assets. From unique NFTs to digital collectibles, Bazaar is a hub for creators and collectors alike.
 * **WigoPlay:** Dive deep into the realm of decentralized gaming. Compete, collaborate, and conquer in a universe of games, all while earning tangible rewards.
 

@@ -20,7 +20,7 @@ Shaping the sustainable future of decentralized finance, WigoSwap stands as the 
 \
 [**WigoGalaxy**](../galaxy/overview.md)&#x20;
 
-A blend of virtual reality and blockchain, WiGalaxy is the metaverse where users live, learn, play, and earn. It's a universe where the boundaries of imagination are endless. Users embark on quests, missions, and interactions, earning Galactic Credits (cWIGO) and leveling up their characters. It redefines the concept of user engagement through a combination of play-to-earn and learn-to-earn models.
+A pioneering platform where DeFi, NFTs, and gamification converge, WigoGalaxy offers a narrative-driven universe where users embark on diverse quests to unlock achievements and gather rewards. This engaging ecosystem not only educates users through interactive quests but also provides numerous opportunities for growth and innovation, empowering them to play, learn, and earn within the expansive Wigo ecosystem.
 
 [**Wiggy**](broken-reference)&#x20;
 
