@@ -4,7 +4,7 @@ description: Navigating Your Galaxy Journey
 
 # 🎨 User Experience and Interface
 
-<figure><img src="../.gitbook/assets/User Interface.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WigoGalaxy Interface (1).png" alt=""><figcaption></figcaption></figure>
 
 Galaxy prioritizes a seamless user experience, with an interface designed for easy navigation and accessibility. Users can effortlessly manage their profiles, view ongoing and favorite quests, and track their rewards and achievements.\
 
